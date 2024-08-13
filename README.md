@@ -1,14 +1,17 @@
-# 关于落雪无痕
-LxHTT(落雪无痕)是MCSL的创始人
+# LxHTTHUB
+## 关于落雪无痕
+落雪无痕LxHTT 是 [MCSL开发组](https://github.com/MCSLTeam) 创始人、总开发。
 
-# LxHTTHub
+## 为什么有这个仓库？
+用于收集 落雪无痕LxHTT 在群聊（指 [OpenBMCLAPI](https://qm.qq.com/q/nplxWhJoxW) 和 [MCSL 交流群](https://jq.qq.com/?_wv=1027&k=x2ISlviQ)）的言论
 
-用于收集 落雪无痕 在群聊(OpenBMCLAPI跟mcsl群聊中)的言论
+## 我该如何贡献？
+你可以给仓库提交 Pull Requests，也可以去各种群里发送各种表情包给我们提交。
 
-### 如何贡献？
-你可以给仓库提交Pr，也可以去各种群里发送表情包
+当然，你也可以打钱给 落雪无痕LxHTT，以保证贡献者们不会被他真实。
 
-也可以打钱给落雪，以保证我不会被落雪真实
+这是他的QQ号: ``3395314362``
 
-
-![万恶之源](射了隔壁裤裆.jpg)
+## 相关 API 链接
+### iodine@home
+```https://iodine.zeronexis.cn:93/files/LxHTTHUB/文件名```
