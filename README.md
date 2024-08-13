@@ -1,3 +1,6 @@
+> [!WARNING]
+> 请注意，本项目单独为 落雪无痕LxHTT 所创建，请勿提交其他的图片
+
 # LxHTTHUB
 ## 关于落雪无痕
 落雪无痕LxHTT 是 [MCSL开发组](https://github.com/MCSLTeam) 创始人、总开发。
@@ -14,4 +17,6 @@
 
 ## 相关 API 链接
 ### iodine@home
-```https://iodine.zeronexis.cn:93/files/LxHTTHUB/文件名```
+```
+https://iodine.zeronexis.cn:93/files/LxHTTHUB/文件名
+```
