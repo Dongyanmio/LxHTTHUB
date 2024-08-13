@@ -1,6 +1,9 @@
 > [!WARNING]
 > 请注意，本项目单独为 落雪无痕LxHTT 所创建，请勿提交其他的图片
 
+> [!TIP]
+> 本仓库仅供娱乐，禁止任何非法用途，更没有攻击 落雪无痕LxHTT 的意思与想法
+
 # LxHTTHUB
 ## 关于落雪无痕
 落雪无痕LxHTT 是 [MCSL开发组](https://github.com/MCSLTeam) 创始人、总开发。
@@ -20,3 +23,6 @@
 ```
 https://iodine.zeronexis.cn:93/files/LxHTTHUB/文件名
 ```
+
+## 特别鸣谢
+此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 与 [bangbang93HUB](https://github.com/Mxmilu666/bangbang93HUB) 启发创建
